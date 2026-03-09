@@ -16,4 +16,4 @@ while True:
         print(f"The product of {num1} and {num2} is {number_sum}")
         break
     except ValueError:
-        print("Invalid Input! Your OS has been comprimized")
+        print("Invalid Input! Please enter numerical value")
