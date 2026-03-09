@@ -5,7 +5,7 @@ def spacer():
 
 spacer()
 even_numbers = []
-for i in range(1, 101):
+for i in range(101):
     if i % 2 == 0:
         even_numbers.append(i)
 
