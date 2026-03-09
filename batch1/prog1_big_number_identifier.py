@@ -16,4 +16,4 @@ while True:
             print(f"{num2} is bigger than {num1}")
         break
     except ValueError:
-        print("Invalid Input! Your OS has been comprimized")
+        print("Invalid Input! Please enter numerical value")
