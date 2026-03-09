@@ -13,7 +13,7 @@ while True:
         number_sum = num1 / num2
         
         spacer()
-        print(f"The product of {num1} and {num2} is {number_sum}")
+        print(f"The quotient of {num1} and {num2} is {number_sum}")
         break
     except ValueError:
         print("Invalid Input! Please enter numerical value")
