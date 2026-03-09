@@ -1,4 +1,4 @@
-"""Prints all numbers from 1-100 that was even"""
+"""Prints all numbers from 0-100 that was even"""
 def spacer():
     for i in range (20):
         print("")
