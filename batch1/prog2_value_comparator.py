@@ -16,4 +16,4 @@ while True:
             spacer()
         break
     except ValueError:
-        print("Invalid Input! Your OS has been comprimized")
+        print("Invalid Input! Please enter numerical value")
