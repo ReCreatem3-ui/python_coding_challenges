@@ -1,4 +1,4 @@
-"""Counts all the even numbers within 10 numbers """
+"""Counts all the even numbers within 10 numbers"""
 
 while True:
     try:
